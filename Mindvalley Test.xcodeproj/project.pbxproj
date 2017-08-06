@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0235F5C2AC5F0C7495AC2083 /* Pods_Mindvalley_TestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A10EA0316BA56E3B4136577 /* Pods_Mindvalley_TestTests.framework */; };
+		A04E26D1A5A177F48D93955C /* Pods_Mindvalley_TestUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48FF8DB5E7FD32E585B6416D /* Pods_Mindvalley_TestUITests.framework */; };
+		D4CB22776C1E071DD8F7DAEB /* Pods_Mindvalley_Test.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE83A99E048AC6E61B10645C /* Pods_Mindvalley_Test.framework */; };
 		FC5FD7611F2A5B4F0090055D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5FD7601F2A5B4F0090055D /* AppDelegate.swift */; };
 		FC5FD7631F2A5B4F0090055D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5FD7621F2A5B4F0090055D /* ViewController.swift */; };
 		FC5FD7661F2A5B4F0090055D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC5FD7641F2A5B4F0090055D /* Main.storyboard */; };
@@ -34,6 +37,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1ED3BB1101293F88C962F03B /* Pods-Mindvalley Test.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindvalley Test.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mindvalley Test/Pods-Mindvalley Test.release.xcconfig"; sourceTree = "<group>"; };
+		48FF8DB5E7FD32E585B6416D /* Pods_Mindvalley_TestUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mindvalley_TestUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A10EA0316BA56E3B4136577 /* Pods_Mindvalley_TestTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mindvalley_TestTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5E6FF9DCC3D9C361E804CA4 /* Pods-Mindvalley TestUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindvalley TestUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mindvalley TestUITests/Pods-Mindvalley TestUITests.release.xcconfig"; sourceTree = "<group>"; };
+		CDA7BA9A309078BFEB972052 /* Pods-Mindvalley TestUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindvalley TestUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Mindvalley TestUITests/Pods-Mindvalley TestUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		CE83A99E048AC6E61B10645C /* Pods_Mindvalley_Test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mindvalley_Test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DABCFAB3A11FAE0FC6B69E75 /* Pods-Mindvalley TestTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindvalley TestTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mindvalley TestTests/Pods-Mindvalley TestTests.release.xcconfig"; sourceTree = "<group>"; };
+		E628B97F7DAB07FD7D242A72 /* Pods-Mindvalley TestTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindvalley TestTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Mindvalley TestTests/Pods-Mindvalley TestTests.debug.xcconfig"; sourceTree = "<group>"; };
 		FC5FD75D1F2A5B4F0090055D /* Mindvalley Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mindvalley Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC5FD7601F2A5B4F0090055D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC5FD7621F2A5B4F0090055D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,7 @@
 		FC5FD77C1F2A5B500090055D /* Mindvalley TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mindvalley TestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC5FD7801F2A5B500090055D /* Mindvalley_TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mindvalley_TestUITests.swift; sourceTree = "<group>"; };
 		FC5FD7821F2A5B500090055D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCA64C42C6247ED5E1218821 /* Pods-Mindvalley Test.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mindvalley Test.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Mindvalley Test/Pods-Mindvalley Test.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4CB22776C1E071DD8F7DAEB /* Pods_Mindvalley_Test.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0235F5C2AC5F0C7495AC2083 /* Pods_Mindvalley_TestTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A04E26D1A5A177F48D93955C /* Pods_Mindvalley_TestUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3265AE9E362E012567CDC407 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CE83A99E048AC6E61B10645C /* Pods_Mindvalley_Test.framework */,
+				6A10EA0316BA56E3B4136577 /* Pods_Mindvalley_TestTests.framework */,
+				48FF8DB5E7FD32E585B6416D /* Pods_Mindvalley_TestUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6CB2F8A65E7FC95597152A3B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FCA64C42C6247ED5E1218821 /* Pods-Mindvalley Test.debug.xcconfig */,
+				1ED3BB1101293F88C962F03B /* Pods-Mindvalley Test.release.xcconfig */,
+				E628B97F7DAB07FD7D242A72 /* Pods-Mindvalley TestTests.debug.xcconfig */,
+				DABCFAB3A11FAE0FC6B69E75 /* Pods-Mindvalley TestTests.release.xcconfig */,
+				CDA7BA9A309078BFEB972052 /* Pods-Mindvalley TestUITests.debug.xcconfig */,
+				B5E6FF9DCC3D9C361E804CA4 /* Pods-Mindvalley TestUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		FC5FD7541F2A5B4F0090055D = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +119,8 @@
 				FC5FD7741F2A5B500090055D /* Mindvalley TestTests */,
 				FC5FD77F1F2A5B500090055D /* Mindvalley TestUITests */,
 				FC5FD75E1F2A5B4F0090055D /* Products */,
+				6CB2F8A65E7FC95597152A3B /* Pods */,
+				3265AE9E362E012567CDC407 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,9 +172,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FC5FD7851F2A5B500090055D /* Build configuration list for PBXNativeTarget "Mindvalley Test" */;
 			buildPhases = (
+				B7194AF2CBE60C583CDCFFC6 /* [CP] Check Pods Manifest.lock */,
 				FC5FD7591F2A5B4F0090055D /* Sources */,
 				FC5FD75A1F2A5B4F0090055D /* Frameworks */,
 				FC5FD75B1F2A5B4F0090055D /* Resources */,
+				A2DB692FE278A498B659982F /* [CP] Embed Pods Frameworks */,
+				9320352EFE52C2F91B855D57 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +192,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FC5FD7881F2A5B500090055D /* Build configuration list for PBXNativeTarget "Mindvalley TestTests" */;
 			buildPhases = (
+				530C8346E3F7E9C051521A96 /* [CP] Check Pods Manifest.lock */,
 				FC5FD76D1F2A5B500090055D /* Sources */,
 				FC5FD76E1F2A5B500090055D /* Frameworks */,
 				FC5FD76F1F2A5B500090055D /* Resources */,
+				3DB17E141E731F715F955FF5 /* [CP] Embed Pods Frameworks */,
+				70C3792FDB5E0C6A741B019D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +213,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FC5FD78B1F2A5B500090055D /* Build configuration list for PBXNativeTarget "Mindvalley TestUITests" */;
 			buildPhases = (
+				2ABD2AF5DD38E1A4F809F03D /* [CP] Check Pods Manifest.lock */,
 				FC5FD7781F2A5B500090055D /* Sources */,
 				FC5FD7791F2A5B500090055D /* Frameworks */,
 				FC5FD77A1F2A5B500090055D /* Resources */,
+				EFA57B089877312A1ACF12FC /* [CP] Embed Pods Frameworks */,
+				0442A7E97D2B596F186B6B61 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -253,6 +302,144 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0442A7E97D2B596F186B6B61 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mindvalley TestUITests/Pods-Mindvalley TestUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2ABD2AF5DD38E1A4F809F03D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		3DB17E141E731F715F955FF5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mindvalley TestTests/Pods-Mindvalley TestTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		530C8346E3F7E9C051521A96 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		70C3792FDB5E0C6A741B019D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mindvalley TestTests/Pods-Mindvalley TestTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9320352EFE52C2F91B855D57 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mindvalley Test/Pods-Mindvalley Test-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A2DB692FE278A498B659982F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mindvalley Test/Pods-Mindvalley Test-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B7194AF2CBE60C583CDCFFC6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		EFA57B089877312A1ACF12FC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mindvalley TestUITests/Pods-Mindvalley TestUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		FC5FD7591F2A5B4F0090055D /* Sources */ = {
@@ -412,6 +599,7 @@
 		};
 		FC5FD7861F2A5B500090055D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FCA64C42C6247ED5E1218821 /* Pods-Mindvalley Test.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Mindvalley Test/Info.plist";
@@ -424,6 +612,7 @@
 		};
 		FC5FD7871F2A5B500090055D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1ED3BB1101293F88C962F03B /* Pods-Mindvalley Test.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Mindvalley Test/Info.plist";
@@ -436,6 +625,7 @@
 		};
 		FC5FD7891F2A5B500090055D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E628B97F7DAB07FD7D242A72 /* Pods-Mindvalley TestTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -450,6 +640,7 @@
 		};
 		FC5FD78A1F2A5B500090055D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DABCFAB3A11FAE0FC6B69E75 /* Pods-Mindvalley TestTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -464,6 +655,7 @@
 		};
 		FC5FD78C1F2A5B500090055D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CDA7BA9A309078BFEB972052 /* Pods-Mindvalley TestUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = "Mindvalley TestUITests/Info.plist";
@@ -477,6 +669,7 @@
 		};
 		FC5FD78D1F2A5B500090055D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B5E6FF9DCC3D9C361E804CA4 /* Pods-Mindvalley TestUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				INFOPLIST_FILE = "Mindvalley TestUITests/Info.plist";
